@@ -111,5 +111,3 @@ python3 bot.py
 * /broadcast - to broadcast a message to all Anurag users
 ```
 
-<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [𝓖𝓾𝓡𝓾](https://telegram.dog/sources_cods) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/anuragmaheshwari_official/) | [ɢɪᴛʜᴜʙ](GitHub.com/8769ANURAG)</b>                                                                                                                                                                                    
-<b>ᴄʜᴀɴɴᴇʟ ›› [ᎯℕUℛᎯᎶ](https://t.me/MOVIES_ZILAA)</b>
