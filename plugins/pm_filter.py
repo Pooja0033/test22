@@ -753,18 +753,18 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('🔥 SΞΛᏒCH HΞᏒΞ 🔥', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/MOVIES_ZILAA'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/sources_cods')
+            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/kmtz_channel_v3'),
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/Prv_35')
             ],[
-            InlineKeyboardButton('🔥 LIИK GΞИΞᏒΛTOᏒ 🔥', url='https://t.me/FileTo_Link_RoBot')
+            InlineKeyboardButton('🔥 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 🔥', url='https://t.me/KL_2335')
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('👑 ᖴᗩCΞᗷOOK 👑', url='https://www.facebook.com/anurag.maheswari.925'),
-            InlineKeyboardButton('🥇 IИSTΛGᏒΛM 🥇', url='https://www.instagram.com/anuragmaheshwari_official')
+            InlineKeyboardButton('👑 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 👑', url='https://chat.whatsapp.com/IKGkvRMCEDb4ocbWApKkZ1'),
+            InlineKeyboardButton('🥇 IИSTΛGᏒΛM 🥇', url='http://instagram.com/kl_02_pranav_')
             ],[
-            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCqts9WhhlioK3RB9XQQzoAg')
+            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://t.me/kmtz_v1')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
