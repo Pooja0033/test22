@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Anuragb8.png" alt="Anurag-Extra-FeaturesLogo">
+  <img src="https://i.ibb.co/SrYpdxT/file-169.jpg" alt=" 🇵 🇷 🇦 🇳 🇦 🇻 ">
 </p>
 <h1 align="center">
   <b>𝙰NURAG-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂</b>
