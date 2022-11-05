@@ -61,7 +61,9 @@ You can deploy this bot anywhere.
 <br>
 <p>
 <a href="https://heroku.com/deploy?template=https://github.com/Pooja0033">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"># Deploy straight to Heroku!
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pooja0033/FileRenameBot)
 </a>
 </p>
 
