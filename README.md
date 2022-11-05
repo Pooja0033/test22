@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/SrYpdxT/file-169.jpg" alt=" 🇵 🇷 🇦 🇳 🇦 🇻 ">
 </p>
 <h1 align="center">
-  <b>𝙰NURAG-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂</b>
+  <b> 🇵 🇷 🇦 🇳 🇦 🇻 </b>
 </h1>
 
 <a href="https://youtube.com/channel/UCqts9WhhlioK3RB9XQQzoAg">
